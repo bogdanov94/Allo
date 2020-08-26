@@ -1,0 +1,10 @@
+2020-02-24 00:59:55,296 [ParallelWorker#2] DEBUG Log4net.AddItemToShopCartCellPhoneTest [(null)] - Element By.CssSelector: #customer-header-menu was clicked
+2020-02-24 00:59:56,288 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartCellPhoneTest [(null)] - Element By.CssSelector: #auth was cleared and Set Value vitaliikovaliuk@icloud.com
+2020-02-24 00:59:56,499 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartCellPhoneTest [(null)] - Element By.CssSelector: #v-login-password was cleared and Set Value qazwsxedc
+2020-02-24 00:59:56,499 [ParallelWorker#2] DEBUG Log4net.AddItemToShopCartCellPhoneTest [(null)] - Element By.CssSelector: .modal-submit-button was clicked
+2020-02-24 00:59:56,748 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartCellPhoneTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: 
+2020-02-24 00:59:59,285 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartCellPhoneTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Віталій
+2020-02-24 00:59:59,472 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartCellPhoneTest [(null)] - Element By.CssSelector: #search was cleared and Set Value Телефон
+2020-02-24 01:00:06,264 [ParallelWorker#2] DEBUG Log4net.AddItemToShopCartCellPhoneTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container was HoverOver
+2020-02-24 01:00:06,566 [ParallelWorker#2] DEBUG Log4net.AddItemToShopCartCellPhoneTest [(null)] - Element By.CssSelector: .buy.small was clicked
+2020-02-24 01:00:07,039 [ParallelWorker#2] DEBUG Log4net.AddItemToShopCartCellPhoneTest [(null)] - Element By.CssSelector: .comeback was clicked

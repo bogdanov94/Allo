@@ -1,0 +1,6 @@
+2020-02-23 23:41:22,498 [ParallelWorker#1] DEBUG Log4net.AddItemToShopCartTest02 [(null)] - Element By.CssSelector: #customer-header-menu was clicked
+2020-02-23 23:41:23,814 [ParallelWorker#1] INFO  Log4net.AddItemToShopCartTest02 [(null)] - Element By.CssSelector: #auth was cleared and Set Value vitaliikovaliuk@icloud.com
+2020-02-23 23:41:24,032 [ParallelWorker#1] INFO  Log4net.AddItemToShopCartTest02 [(null)] - Element By.CssSelector: #v-login-password was cleared and Set Value qazwsxedc
+2020-02-23 23:41:24,032 [ParallelWorker#1] DEBUG Log4net.AddItemToShopCartTest02 [(null)] - Element By.CssSelector: .modal-submit-button was clicked
+2020-02-23 23:41:29,214 [ParallelWorker#1] DEBUG Log4net.AddItemToShopCartTest02 [(null)] - Element By.CssSelector: #customer-header-menu .name-container was HoverOver
+2020-02-23 23:41:29,530 [ParallelWorker#1] DEBUG Log4net.AddItemToShopCartTest02 [(null)] - Element By.CssSelector: #carousel-hot-1 .buy was clicked

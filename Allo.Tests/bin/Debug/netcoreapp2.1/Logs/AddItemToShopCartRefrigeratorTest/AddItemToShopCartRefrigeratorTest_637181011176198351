@@ -1,0 +1,9 @@
+2020-02-24 00:32:05,148 [ParallelWorker#2] DEBUG Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu was clicked
+2020-02-24 00:32:06,143 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #auth was cleared and Set Value vitaliikovaliuk@icloud.com
+2020-02-24 00:32:06,457 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #v-login-password was cleared and Set Value qazwsxedc
+2020-02-24 00:32:06,457 [ParallelWorker#2] DEBUG Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: .modal-submit-button was clicked
+2020-02-24 00:32:06,669 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: 
+2020-02-24 00:32:09,431 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Віталій
+2020-02-24 00:32:09,893 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #search was cleared and Set Value Холодильник
+2020-02-24 00:32:15,586 [ParallelWorker#2] DEBUG Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container was HoverOver
+2020-02-24 00:32:15,900 [ParallelWorker#2] DEBUG Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: .buy.small was clicked

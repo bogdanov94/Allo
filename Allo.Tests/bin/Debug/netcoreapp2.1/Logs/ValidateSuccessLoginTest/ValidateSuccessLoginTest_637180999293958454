@@ -1,0 +1,4 @@
+2020-02-24 00:12:15,218 [ParallelWorker#1] DEBUG Log4net.ValidateSuccessLoginTest [(null)] - Element By.CssSelector: #customer-header-menu was clicked
+2020-02-24 00:12:15,836 [ParallelWorker#1] INFO  Log4net.ValidateSuccessLoginTest [(null)] - Element By.CssSelector: #auth was cleared and Set Value vitaliikovaliuk@icloud.com
+2020-02-24 00:12:16,019 [ParallelWorker#1] INFO  Log4net.ValidateSuccessLoginTest [(null)] - Element By.CssSelector: #v-login-password was cleared and Set Value qazwsxedc
+2020-02-24 00:12:16,020 [ParallelWorker#1] DEBUG Log4net.ValidateSuccessLoginTest [(null)] - Element By.CssSelector: .modal-submit-button was clicked

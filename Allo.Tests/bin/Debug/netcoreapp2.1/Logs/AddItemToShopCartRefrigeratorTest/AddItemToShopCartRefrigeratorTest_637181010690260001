@@ -1,0 +1,43 @@
+2020-02-24 00:31:19,048 [ParallelWorker#2] DEBUG Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu was clicked
+2020-02-24 00:31:20,079 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #auth was cleared and Set Value vitaliikovaliuk@icloud.com
+2020-02-24 00:31:20,257 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #v-login-password was cleared and Set Value 
+2020-02-24 00:31:20,257 [ParallelWorker#2] DEBUG Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: .modal-submit-button was clicked
+2020-02-24 00:31:20,571 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:21,096 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:21,631 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:22,155 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:22,680 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:23,214 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:23,735 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:24,262 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:24,792 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:25,314 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:25,834 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:26,366 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:26,902 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:27,441 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:27,969 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:28,505 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:29,036 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:29,569 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:30,108 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:30,644 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:31,176 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:31,712 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:32,240 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:32,774 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:33,308 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:33,843 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:34,378 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:34,913 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:35,447 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:35,980 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:36,521 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:37,065 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:37,598 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:38,127 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:38,659 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:39,193 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:39,728 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:40,277 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт
+2020-02-24 00:31:40,817 [ParallelWorker#2] INFO  Log4net.AddItemToShopCartRefrigeratorTest [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Ваш аккаунт

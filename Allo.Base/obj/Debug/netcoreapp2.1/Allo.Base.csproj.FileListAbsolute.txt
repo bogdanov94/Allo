@@ -1,0 +1,7 @@
+D:\Projects\Allo\Allo.Base\bin\Debug\netcoreapp2.1\Allo.Base.deps.json
+D:\Projects\Allo\Allo.Base\bin\Debug\netcoreapp2.1\Allo.Base.dll
+D:\Projects\Allo\Allo.Base\bin\Debug\netcoreapp2.1\Allo.Base.pdb
+D:\Projects\Allo\Allo.Base\obj\Debug\netcoreapp2.1\Allo.Base.AssemblyInfoInputs.cache
+D:\Projects\Allo\Allo.Base\obj\Debug\netcoreapp2.1\Allo.Base.AssemblyInfo.cs
+D:\Projects\Allo\Allo.Base\obj\Debug\netcoreapp2.1\Allo.Base.dll
+D:\Projects\Allo\Allo.Base\obj\Debug\netcoreapp2.1\Allo.Base.pdb

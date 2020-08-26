@@ -1,0 +1,11 @@
+D:\Projects\Allo\Allo.PageObjects\bin\Debug\netcoreapp2.1\Allo.PageObjects.deps.json
+D:\Projects\Allo\Allo.PageObjects\bin\Debug\netcoreapp2.1\Allo.PageObjects.dll
+D:\Projects\Allo\Allo.PageObjects\bin\Debug\netcoreapp2.1\Allo.PageObjects.pdb
+D:\Projects\Allo\Allo.PageObjects\bin\Debug\netcoreapp2.1\Allo.Base.dll
+D:\Projects\Allo\Allo.PageObjects\bin\Debug\netcoreapp2.1\Allo.Base.pdb
+D:\Projects\Allo\Allo.PageObjects\obj\Debug\netcoreapp2.1\Allo.PageObjects.csprojAssemblyReference.cache
+D:\Projects\Allo\Allo.PageObjects\obj\Debug\netcoreapp2.1\Allo.PageObjects.AssemblyInfoInputs.cache
+D:\Projects\Allo\Allo.PageObjects\obj\Debug\netcoreapp2.1\Allo.PageObjects.AssemblyInfo.cs
+D:\Projects\Allo\Allo.PageObjects\obj\Debug\netcoreapp2.1\Allo.PageObjects.csproj.CopyComplete
+D:\Projects\Allo\Allo.PageObjects\obj\Debug\netcoreapp2.1\Allo.PageObjects.dll
+D:\Projects\Allo\Allo.PageObjects\obj\Debug\netcoreapp2.1\Allo.PageObjects.pdb

@@ -1,0 +1,5 @@
+2020-02-23 23:05:09,448 [ParallelWorker#4] DEBUG Log4net.LoginTestTest01 [(null)] - Element By.CssSelector: #customer-header-menu was clicked
+2020-02-23 23:05:10,074 [ParallelWorker#4] INFO  Log4net.LoginTestTest01 [(null)] - Element By.CssSelector: #auth was cleared and Set Value vitaliikovaliuk@icloud.com
+2020-02-23 23:05:10,266 [ParallelWorker#4] INFO  Log4net.LoginTestTest01 [(null)] - Element By.CssSelector: #v-login-password was cleared and Set Value qazwsxedc
+2020-02-23 23:05:10,266 [ParallelWorker#4] DEBUG Log4net.LoginTestTest01 [(null)] - Element By.CssSelector: .modal-submit-button was clicked
+2020-02-23 23:05:15,486 [ParallelWorker#4] INFO  Log4net.LoginTestTest01 [(null)] - Element By.CssSelector: #customer-header-menu .name-container text: Віталій
